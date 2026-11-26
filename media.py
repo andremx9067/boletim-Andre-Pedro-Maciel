@@ -1,4 +1,4 @@
-# Autor:André(andremx9067)
+# Autor:André
 
 def media(n1, n2):
     """Devolve a media aritmetica das duas notas.
